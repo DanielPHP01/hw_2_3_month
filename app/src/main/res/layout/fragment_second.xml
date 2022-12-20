@@ -13,7 +13,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:src="@color/black" />
+        android:src="@drawable/ic_baseline_image_24" />
 
     <TextView
         android:id="@+id/textView"
@@ -21,7 +21,6 @@
         android:layout_height="150dp"
         android:textSize="30sp"
         android:layout_marginBottom="288dp"
-        android:text=""
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.454"
