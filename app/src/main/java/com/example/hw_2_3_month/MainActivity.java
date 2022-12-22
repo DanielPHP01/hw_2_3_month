@@ -1,6 +1,9 @@
 package com.example.hw_2_3_month;
+
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
